@@ -2,6 +2,17 @@ aid: kontoor-brands
 url: https://github.com/api-evangelist/kontoor-brands
 name: Kontoor Brands
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.kontoorbrands.com/favicon.ico
 tags:
   - Apparel
